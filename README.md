@@ -51,6 +51,3 @@ Outros documentos relacionados aos demais códigos e ao repositório em geral po
 
 ----------------------
 
-### Dúvidas
-
-Eventuais dúvidas sobre os algoritmos ou sobre a pesquisa podem ser esclarecidas através do e-mail **kelvinpfw@hotmail.com**
